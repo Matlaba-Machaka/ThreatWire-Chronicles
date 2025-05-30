@@ -75,7 +75,7 @@ cd ThreatWire-Chronicles
 ### 2. Start the frontend
 ```bash
 cd client
-npm install
+npm i
 npm run dev
 ```
 
