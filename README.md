@@ -81,6 +81,10 @@ npm run dev
 
 ### 🧪 Demo Screenshots
 
+![Home Page](/client/src/assets/Screenshots/home-p.png)
+![Catergories](/client/src/assets/Screenshots/cat.png)
+![Sign-In](/client/src/assets/Screenshots/sign-in.png)
+![Sign-Up](/client/src/assets/Screenshots/sign-up.png)
 
 ### ⚙️ Tech Stack
 
