@@ -25,8 +25,8 @@ export function createJWT(id) {
 }
 
 export function generateOTP() {
-  const min = 100000; // Minimum 6-digit number
-  const max = 999999; // Maximum 6-digit number
+  const min = 100000; 
+  const max = 999999; 
 
   let randomNumber;
 
